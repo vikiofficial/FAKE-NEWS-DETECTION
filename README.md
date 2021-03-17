@@ -1,7 +1,5 @@
-# FAKE-NEWS-DETECTION
-
-# Checkout the app on this [link](https://bit.ly/3vyWP6s)
-<img src="C:\Users\91936\Downloads\app.png">
+# Checkout the app on this [link](https://ravi-finds-fake-news.herokuapp.com)
+<img src="images/app.png">
 
 # Introduction
 Do you trust all the news you hear from social media? All news are not real, right? So how will you detect the fake news? We will be using Multinomial Naive Bayes method to classify the news article scrapped from the news article link, as fake or real.
