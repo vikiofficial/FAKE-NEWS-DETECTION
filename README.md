@@ -1,6 +1,6 @@
 # FAKE-NEWS-DETECTION
 
-# Checkout the app on this [link](https://ravi-finds-fake-news.herokuapp.com)
+# Checkout the app on this [link](https://bit.ly/3vyWP6s)
 <img src="C:\Users\91936\Downloads\app.png">
 
 # Introduction
